@@ -1,0 +1,24 @@
+SMAP
+insertion_0020reg_jsp.java
+JSP
+*S JSP
+*F
++ 0 insertion reg.jsp
+insertion reg.jsp
++ 1 css menu home 1.jsp
+css menu home 1.jsp
++ 2 connection reg.jsp
+connection reg.jsp
+*L
+5,2:53
+5#1,32:55
+7#0:86
+5#2,13:87
+17:12
+17,2:100
+18,4:102
+21,4:106
+8#0,10:109
+18,19:120
+36,5:139
+*E

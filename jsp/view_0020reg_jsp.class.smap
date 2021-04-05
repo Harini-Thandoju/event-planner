@@ -1,0 +1,28 @@
+SMAP
+view_0020reg_jsp.java
+JSP
+*S JSP
+*F
++ 0 view reg.jsp
+view reg.jsp
++ 1 connection reg.jsp
+connection reg.jsp
++ 2 css menu admin 1.jsp
+css menu admin 1.jsp
+*L
+5,2:53
+5#1,13:55
+17:12
+17,2:68
+18,4:70
+21,4:74
+7#0:77
+5#2,28:78
+8#0,27:105
+35,5:133
+39,2:138
+41,6:140,3
+47,3:158
+49,2:161
+50,12:163
+*E

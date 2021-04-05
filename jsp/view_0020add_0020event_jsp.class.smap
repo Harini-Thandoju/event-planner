@@ -1,0 +1,28 @@
+SMAP
+view_0020add_0020event_jsp.java
+JSP
+*S JSP
+*F
++ 0 view add event.jsp
+view add event.jsp
++ 1 connection addevent.jsp
+connection addevent.jsp
++ 2 css menu admin 1.jsp
+css menu admin 1.jsp
+*L
+5:53
+5#1,13:54
+17:12
+17,2:67
+18,4:69
+21,4:73
+6#0:76
+5#2,27:77
+7#0,30:103
+37,5:134
+41,2:139
+43,9:141,3
+52,2:168
+53,2:170
+54,12:172
+*E
